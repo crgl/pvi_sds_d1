@@ -4,6 +4,7 @@ channels:
   - bioconda
   - defaults
 dependencies:
+  - openpyxl
   - python=3.8.13
   - pandas
   - scipy
